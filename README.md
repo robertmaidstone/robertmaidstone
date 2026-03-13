@@ -19,8 +19,12 @@ For a full list of my publications please see my [Google Scholar](https://schola
   
 ### Epidemiology
 
-- **Asthma and shift working**
-    - Code:
+- **Female night shift working and asthma in UK Biobank**
+    - Code: [Asthma_ShiftWork_UKB](https://github.com/robertmaidstone/Asthma_ShiftWork_UKB)
+    - Paper: [Increased risk of asthma in female night shift workers](https://publications.ersnet.org/content/erjor/11/6/00137-2025.abstract). Maidstone et al., ERJ Open Research, 2025. 
+
+- **Asthma and shift working in UK Biobank**
+    - Code: [AsthmaInFemaleNightShift](https://github.com/robertmaidstone/AsthmaInFemaleNightShift)
     - Paper: 
 
 ### Other
