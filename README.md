@@ -4,24 +4,6 @@ I'm a researcher in epidemiology & computational biology (9 yrs), specialising i
 
 Across roles at the universities of Manchester and Oxford, I’ve led and contributed to interdisciplinary projects that combine large scale datasets, advanced analytical methods and real world health questions. I currently serve as PI and Co I on funded research investigating the impact of shift work on asthma, and I help shape population health research nationally through my involvement with UK Biobank and Our Future Health.
 
-**Currently under construction**
-
-## Projects
-
-For a full list of my publications please see my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=DZsXj_8AAAAJ) page. Listed below is my publications and projects with associated github repositories, split by category.
-
-### Computational Biology
-
-- [GR_CircadianLiverTranscriptome]() repository: Contains code to reproduce analyses published in NPJ Biological Timing and Sleep: *[Glucocorticoid-dependence and independence of the circadian liver transcriptome. Maidstone et al., 2026](https://www.nature.com/articles/s44323-025-00068-8)*
-
-### Epidemiology
-
-- **Asthma and shift working**
-    - Code:
-    - Paper: 
-
-### Other
-
 <!--
 **robertmaidstone/robertmaidstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
