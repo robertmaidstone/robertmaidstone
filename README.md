@@ -10,15 +10,19 @@ Listed below is my publications and projects with associated github repositories
 
 ### 'Omic Data Analysis
 
-- **Analysis of the circadian liver transcriptome**
-     - [Code:](https://github.com/robertmaidstone/GR_CircadianLiverTranscriptome) *GR_CircadianLiverTranscriptome* repository.
+- **Analysis of the circadian liver transcriptome in WT and GR liver specific KO mice**
+     - [Code:](https://github.com/robertmaidstone/GR_CircadianLiverTranscriptome) *GR_CircadianLiverTranscriptome* repository. Contains code for reproducing all figures. Including rhythmicity analysis using compareRhythms, clustering analysis and combining multiple 'omic data sets both novel and from the literature.
      - [Paper:](https://www.nature.com/articles/s44323-025-00068-8) *Glucocorticoid-dependence and independence of the circadian liver transcriptome.* Maidstone et al., NPJ Biological Timing and Sleep, 2026.
-- **CIA analysis**
+       
+- **Transcriptomic analysis of a chronic inflammatory arthritis mouse model**
+     - [Code:](https://github.com/robertmaidstone/CIAanalysis_forpaper) *CIAanalysis_forpaper* repository. Contains R code for analysis and plotting of metabolomics, phosphproteomics and transcriptomics data from the chronic inflammatory mouse model.
+     - [Paper:](https://www.pnas.org/doi/full/10.1073/pnas.2112781119) *Chronic inflammatory arthritis drives systemic changes in circadian energy metabolism.* Downton et al., Immunology and Inflammation, 2022
+       
 - **Translational Efficiency** We wanted to compare relationships of translational efficiency with 5' UTR length and GC content percentage between control and BUD23 specific siRNA.
      - [Code:](https://github.com/robertmaidstone/Translational_Efficiency) *Translational_Efficiency* repository. Contains R functions and pipelines for calculation of translational efficiency from siRNA plots, comparing ratios of heavy and light polysome fractions.
      - [Paper:](https://pubmed.ncbi.nlm.nih.gov/31939735/) *Cardiac mitochondrial function depends on BUD23 mediated ribosome programming.* Baxter et al., Elife, 2020
 
-### Clinical Data Anaylsis
+### Clinical Data Analysis
 
 - **Airway Resistance Data**
 - **Circadian Breath Volatiles**
@@ -27,6 +31,7 @@ Listed below is my publications and projects with associated github repositories
 
 - **Our Future Health functions and pipelines** Ongoing research using the Our Future Health resource, both to run cross-sectional and prospective analyses.
      - Code: Watch this space
+       
 - **Female night shift working and asthma in UK Biobank** Cross-sectional study on UK Biobank data investigating the effect of genetic sex on associations between night shift working and asthma. We found that increasing shift work frequency is more strongly related to asthma in females than in males whcih could have major public health implications.
     - [Code:](https://github.com/robertmaidstone/AsthmaInFemaleNightShift) *Asthma_ShiftWork_UKB* repository. Contains code for running analyses presented in paper. Data cleaning and handelling of UK Biobank data, fitting logistic regression models, calculating interactions between variables, mediation analysis and plotting of key results. 
     - [Paper:](https://publications.ersnet.org/content/erjor/11/6/00137-2025.abstract) *Increased risk of asthma in female night shift workers.* Maidstone et al., ERJ Open Research, 2025. 
