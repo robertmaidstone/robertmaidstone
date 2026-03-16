@@ -40,11 +40,11 @@ Listed below is my publications and projects with associated github repositories
 
 ### Clinical Data Analysis
 
-- **Airway Resistance Data** PRIVATE
-     - [Code:]() ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+- **Airway Resistance Data** Contains the full analysis pipeline for a respiratory study investigating how airway resistance varies across time, genotype, and allergen exposure. The project focuses on methacholine dose–response curves and the temporal rhythmicity of derived resistance metrics. Data used is from a mouse model, but on clinical measures.
+     - [Code:](https://github.com/robertmaidstone/AirwayResistance) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 - **Circadian Breath Volatiles** PRIVATE
-     - [Code:]() ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-     - [Paper:]()
+     - [Code:](https://github.com/robertmaidstone/CircadianBreathVolatiles) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+     - [Paper:](https://publications.ersnet.org/content/erjor/11/6/00277-2025) *Circadian variability in breath volatiles is affected by the timing of inhaled corticosteroids in asthma.* Wang et al., ERJ Open Research, 2025.
 
 ### Epidemiology
 
