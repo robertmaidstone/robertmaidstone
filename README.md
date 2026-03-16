@@ -26,11 +26,11 @@ Listed below is my publications and projects with associated github repositories
 
 ### 'Omic Data Analysis
 
-- **Analysis of the circadian liver transcriptome in WT and GR liver specific KO mice** PRIVATE
+- **Analysis of the circadian liver transcriptome in WT and GR liver specific KO mice** REPOSITORY PRIVATE AT MOMENT
      - [Code:](https://github.com/robertmaidstone/GR_CircadianLiverTranscriptome) *GR_CircadianLiverTranscriptome* repository. Contains code for reproducing all figures. Including rhythmicity analysis using compareRhythms, clustering analysis and combining multiple 'omic data sets both novel and from the literature. ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
      - [Paper:](https://www.nature.com/articles/s44323-025-00068-8) *Glucocorticoid-dependence and independence of the circadian liver transcriptome.* Maidstone et al., NPJ Biological Timing and Sleep, 2026.
        
-- **Transcriptomic analysis of a chronic inflammatory arthritis mouse model** PRIVATE
+- **Transcriptomic analysis of a chronic inflammatory arthritis mouse model** REPOSITORY PRIVATE AT MOMENT
      - [Code:](https://github.com/robertmaidstone/CIAanalysis_forpaper) *CIAanalysis_forpaper* repository. Contains R code for analysis and plotting of metabolomics, phosphproteomics and transcriptomics data from the chronic inflammatory mouse model. ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
      - [Paper:](https://www.pnas.org/doi/full/10.1073/pnas.2112781119) *Chronic inflammatory arthritis drives systemic changes in circadian energy metabolism.* Downton et al., Immunology and Inflammation, 2022
        
