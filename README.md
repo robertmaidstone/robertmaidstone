@@ -51,7 +51,7 @@ Listed below is my publications and projects with associated github repositories
 ### Epidemiology
 
 - **Our Future Health functions and pipelines** Ongoing research using the Our Future Health resource, both to run cross-sectional and prospective analyses.
-     - Code: Watch this space
+     - [Code:](https://github.com/robertmaidstone/ofh-shiftwork) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
        
 - **Female night shift working and asthma in UK Biobank** Cross-sectional study on UK Biobank data investigating the effect of genetic sex on associations between night shift working and asthma. We found that increasing shift work frequency is more strongly related to asthma in females than in males whcih could have major public health implications.
     - [Code:](https://github.com/robertmaidstone/AsthmaInFemaleNightShift) *Asthma_ShiftWork_UKB* repository. Contains code for running analyses presented in paper. Data cleaning and handelling of UK Biobank data, fitting logistic regression models, calculating interactions between variables, mediation analysis and plotting of key results. ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
