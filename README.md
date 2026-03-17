@@ -46,7 +46,7 @@ Listed below is my publications and projects with associated github repositories
      - [Code:](https://github.com/robertmaidstone/CircadianBreathVolatiles) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/CircadianBreathVolatiles)
      - [Paper:](https://publications.ersnet.org/content/erjor/11/6/00277-2025) *Circadian variability in breath volatiles is affected by the timing of inhaled corticosteroids in asthma.* Wang et al., ERJ Open Research, 2025.
 - **GP periodic detection** REPOSITORY PRIVATE AT MOMENT
-     - [Code:](https://github.com/robertmaidstone/GP_periodic_detection) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Stan](https://img.shields.io/badge/Stan-CC0000?logo=stan&logoColor=white)](https://github.com/robertmaidstone/GP_periodic_detection)
+     - [Code:](https://github.com/robertmaidstone/GP_periodic_detection) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/GP_periodic_detection) [![Stan](https://img.shields.io/badge/Stan-CC0000?logo=stan&logoColor=white)](https://github.com/robertmaidstone/GP_periodic_detection)
 
 ### Epidemiology
 
