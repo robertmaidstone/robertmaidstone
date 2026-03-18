@@ -51,20 +51,20 @@ Listed below is my publications and projects with associated github repositories
 ### Epidemiology
 
 - **Our Future Health functions and pipelines** Ongoing research using the Our Future Health resource, both to run cross-sectional and prospective analyses.
-     - [ofh-shiftwork](https://github.com/robertmaidstone/ofh-shiftwork) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/ofh-shiftwork)
+     - [asthma-shiftwork-ofh](https://github.com/robertmaidstone/asthma-shiftwork-ofh) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/ofh-shiftwork)
        
 - **Female night shift working and asthma in UK Biobank** Cross-sectional study on UK Biobank data investigating the effect of genetic sex on associations between night shift working and asthma. We found that increasing shift work frequency is more strongly related to asthma in females than in males whcih could have major public health implications.
-    - [Code:](https://github.com/robertmaidstone/AsthmaInFemaleNightShift) *Asthma_ShiftWork_UKB* repository. Contains code for running analyses presented in paper. Data cleaning and handelling of UK Biobank data, fitting logistic regression models, calculating interactions between variables, mediation analysis and plotting of key results. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/AsthmaInFemaleNightShift)
+    - [asthma-shiftwork-ofh-female](https://github.com/robertmaidstone/asthma-shiftwork-ofh-female) *Asthma_ShiftWork_UKB* repository. Contains code for running analyses presented in paper. Data cleaning and handelling of UK Biobank data, fitting logistic regression models, calculating interactions between variables, mediation analysis and plotting of key results. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/AsthmaInFemaleNightShift)
     - [Paper:](https://publications.ersnet.org/content/erjor/11/6/00137-2025.abstract) *Increased risk of asthma in female night shift workers.* Maidstone et al., ERJ Open Research, 2025. 
 
 - **Asthma and shift working in UK Biobank** Cross-sectional study on UK Biobank data investigating effect of shift working and chronotype on asthma.  
-    - [Code:](https://github.com/robertmaidstone/Asthma_ShiftWork_UKB) *AsthmaInFemaleNightShift* repository [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/Asthma_ShiftWork_UKB)
+    - [asthma-shiftwork-ofh](https://github.com/robertmaidstone/asthma-shiftwork-ofh) *AsthmaInFemaleNightShift* repository [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/Asthma_ShiftWork_UKB)
     - [Paper:](https://thorax.bmj.com/content/76/1/53) *Night shift work is associated with an increased risk of asthma.* Maidstone et al., Thorax, 2021.
 
 ### Other
 
 - **Personal Website**
-  - [Code:](https://github.com/robertmaidstone/website) website repository containing quarto code to create personal website [![Quarto](https://img.shields.io/badge/Quarto-4A90E2?logo=quarto&logoColor=white)](https://github.com/robertmaidstone/website)
+  - [website](https://github.com/robertmaidstone/website) website repository containing quarto code to create personal website [![Quarto](https://img.shields.io/badge/Quarto-4A90E2?logo=quarto&logoColor=white)](https://github.com/robertmaidstone/website)
   - [Website](https://personalpages.manchester.ac.uk/staff/robert.maidstone/)
 - **University of Manchester UK Biobank Users Group**
-  - [Repository:](https://github.com/robertmaidstone/UoM_UKB_UserGroup) Contains files relating to the UK Biobank Users Group at the University of Manchester
+  - [uom-ukb-usergroup](https://github.com/robertmaidstone/uom-ukb-usergroup) Contains files relating to the UK Biobank Users Group at the University of Manchester
