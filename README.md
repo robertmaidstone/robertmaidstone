@@ -27,23 +27,23 @@ Listed below is my publications and projects with associated github repositories
 ### 'Omic Data Analysis
 
 - **Analysis of the circadian liver transcriptome in WT and GR liver specific KO mice** REPOSITORY PRIVATE AT MOMENT
-     - [Code:](https://github.com/robertmaidstone/GR_CircadianLiverTranscriptome) *GR_CircadianLiverTranscriptome* repository. Contains code for reproducing all figures. Including rhythmicity analysis using compareRhythms, clustering analysis and combining multiple 'omic data sets both novel and from the literature. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/GR_CircadianLiverTranscriptome)
+     - [gr-circadian-transcriptome](https://github.com/robertmaidstone/gr-circadian-transcriptome) Contains code for reproducing all figures. Including rhythmicity analysis using compareRhythms, clustering analysis and combining multiple 'omic data sets both novel and from the literature. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/GR_CircadianLiverTranscriptome)
      - [Paper:](https://www.nature.com/articles/s44323-025-00068-8) *Glucocorticoid-dependence and independence of the circadian liver transcriptome.* Maidstone et al., NPJ Biological Timing and Sleep, 2026.
        
 - **Transcriptomic analysis of a chronic inflammatory arthritis mouse model** REPOSITORY PRIVATE AT MOMENT
-     - [Code:](https://github.com/robertmaidstone/CIAanalysis_forpaper) *CIAanalysis_forpaper* repository. Contains R code for analysis and plotting of metabolomics, phosphproteomics and transcriptomics data from the chronic inflammatory mouse model. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/CIAanalysis_forpaper)
+     - [cia-circadian-transcriptome](https://github.com/robertmaidstone/cia-circadian-transcriptome) Contains R code for analysis and plotting of metabolomics, phosphproteomics and transcriptomics data from the chronic inflammatory mouse model. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/CIAanalysis_forpaper)
      - [Paper:](https://www.pnas.org/doi/full/10.1073/pnas.2112781119) *Chronic inflammatory arthritis drives systemic changes in circadian energy metabolism.* Downton et al., Immunology and Inflammation, 2022
        
 - **Translational Efficiency** We wanted to compare relationships of translational efficiency with 5' UTR length and GC content percentage between control and BUD23 specific siRNA.
-     - [Code:](https://github.com/robertmaidstone/Translational_Efficiency) *Translational_Efficiency* repository. Contains R functions and pipelines for calculation of translational efficiency from siRNA plots, comparing ratios of heavy and light polysome fractions.  [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/Translational_Efficiency)
+     - [bud23-translational-efficiency](https://github.com/robertmaidstone/bud23-translational-efficiency) Contains R functions and pipelines for calculation of translational efficiency from siRNA plots, comparing ratios of heavy and light polysome fractions.  [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/Translational_Efficiency)
      - [Paper:](https://pubmed.ncbi.nlm.nih.gov/31939735/) *Cardiac mitochondrial function depends on BUD23 mediated ribosome programming.* Baxter et al., Elife, 2020
 
 ### Clinical Data Analysis
 
 - **Airway Resistance Data** Contains the full analysis pipeline for a respiratory study investigating how airway resistance varies across time, genotype, and allergen exposure. The project focuses on methacholine dose–response curves and the temporal rhythmicity of derived resistance metrics. Data used is from a mouse model, but on clinical measures.
-     - [Code:](https://github.com/robertmaidstone/AirwayResistance) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/AirwayResistance)
+     - [reverba-circadian-airway-resistance](https://github.com/robertmaidstone/reverba-circadian-airway-resistance) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/AirwayResistance)
 - **Circadian Breath Volatiles** Harmonic regression on breath volatile compounds to analyse rhythmicity.
-     - [Code:](https://github.com/robertmaidstone/CircadianBreathVolatiles) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/CircadianBreathVolatiles)
+     - [chronotherapy-circadian-breathomics](https://github.com/robertmaidstone/chronotherapy-circadian-breathomics) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/CircadianBreathVolatiles)
      - [Paper:](https://publications.ersnet.org/content/erjor/11/6/00277-2025) *Circadian variability in breath volatiles is affected by the timing of inhaled corticosteroids in asthma.* Wang et al., ERJ Open Research, 2025.
 - **GP periodic detection** REPOSITORY PRIVATE AT MOMENT
      - [Code:](https://github.com/robertmaidstone/GP_periodic_detection) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/GP_periodic_detection) [![Stan](https://img.shields.io/badge/Stan-CC0000?logo=stan&logoColor=white)](https://github.com/robertmaidstone/GP_periodic_detection)
@@ -51,7 +51,7 @@ Listed below is my publications and projects with associated github repositories
 ### Epidemiology
 
 - **Our Future Health functions and pipelines** Ongoing research using the Our Future Health resource, both to run cross-sectional and prospective analyses.
-     - [Code:](https://github.com/robertmaidstone/ofh-shiftwork) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/ofh-shiftwork)
+     - [ofh-shiftwork](https://github.com/robertmaidstone/ofh-shiftwork) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/ofh-shiftwork)
        
 - **Female night shift working and asthma in UK Biobank** Cross-sectional study on UK Biobank data investigating the effect of genetic sex on associations between night shift working and asthma. We found that increasing shift work frequency is more strongly related to asthma in females than in males whcih could have major public health implications.
     - [Code:](https://github.com/robertmaidstone/AsthmaInFemaleNightShift) *Asthma_ShiftWork_UKB* repository. Contains code for running analyses presented in paper. Data cleaning and handelling of UK Biobank data, fitting logistic regression models, calculating interactions between variables, mediation analysis and plotting of key results. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/AsthmaInFemaleNightShift)
