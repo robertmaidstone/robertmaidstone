@@ -54,7 +54,7 @@ Listed below is my publications and projects with associated github repositories
 ### Clinical Data Analysis
 
 - **Airway Resistance Data** Contains the full analysis pipeline for a respiratory study investigating how airway resistance varies across time, genotype, and allergen exposure. The project focuses on methacholine dose–response curves and the temporal rhythmicity of derived resistance metrics. Data used is from a mouse model, but on clinical measures.
-     - [reverba-circadian-airway-resistance](https://github.com/robertmaidstone/reverba-circadian-airway-resistance) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/AirwayResistance)
+     - [circadian-airway-resistance](https://github.com/robertmaidstone/circadian-airway-resistance) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/AirwayResistance)
 - **Circadian Breath Volatiles** Harmonic regression on breath volatile compounds to analyse rhythmicity.
      - [chronotherapy-circadian-breathomics](https://github.com/robertmaidstone/chronotherapy-circadian-breathomics) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/CircadianBreathVolatiles)
      - [Paper:](https://publications.ersnet.org/content/erjor/11/6/00277-2025) *Circadian variability in breath volatiles is affected by the timing of inhaled corticosteroids in asthma.* Wang et al., ERJ Open Research, 2025.
