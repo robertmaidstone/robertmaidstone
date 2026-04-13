@@ -24,26 +24,13 @@ Across roles at the universities of Manchester and Oxford, I’ve led and contri
 
 Listed below is my publications and projects with associated github repositories, split by category. For a full list of my publications please see my [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.co.uk/citations?hl=en&user=DZsXj_8AAAAJ).
 
-### Epidemiology
-
-- **Female night shift working and asthma in UK Biobank** Cross-sectional study on UK Biobank data investigating the effect of genetic sex on associations between night shift working and asthma. We found that increasing shift work frequency is more strongly related to asthma in females than in males whcih could have major public health implications.
-    - [asthma-shiftwork-ukb-female](https://github.com/robertmaidstone/asthma-shiftwork-ukb-female) Contains code for running analyses presented in paper. Data cleaning and handelling of UK Biobank data, fitting logistic regression models, calculating interactions between variables, mediation analysis and plotting of key results. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/AsthmaInFemaleNightShift)
-    - [Paper:](https://publications.ersnet.org/content/erjor/11/6/00137-2025.abstract) *Increased risk of asthma in female night shift workers.* Maidstone et al., ERJ Open Research, 2025. 
-
-- **Our Future Health functions and pipelines** Ongoing research using the Our Future Health resource, both to run cross-sectional and prospective analyses.
-     - [asthma-shiftwork-ofh](https://github.com/robertmaidstone/asthma-shiftwork-ofh) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/ofh-shiftwork)
-
-- **Asthma and shift working in UK Biobank** Cross-sectional study on UK Biobank data investigating effect of shift working and chronotype on asthma.  
-    - [asthma-shiftwork-ukb](https://github.com/robertmaidstone/asthma-shiftwork-ukb) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/Asthma_ShiftWork_UKB)
-    - [Paper:](https://thorax.bmj.com/content/76/1/53) *Night shift work is associated with an increased risk of asthma.* Maidstone et al., Thorax, 2021.
-      
 ### 'Omic Data Analysis
 
-- **Analysis of the circadian liver transcriptome in WT and GR liver specific KO mice** REPOSITORY PRIVATE AT MOMENT
+- **Analysis of the circadian liver transcriptome in WT and GR liver specific KO mice** 
      - [gr-circadian-transcriptome](https://github.com/robertmaidstone/gr-circadian-transcriptome) Contains code for reproducing all figures. Including rhythmicity analysis using compareRhythms, clustering analysis and combining multiple 'omic data sets both novel and from the literature. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/GR_CircadianLiverTranscriptome)
      - [Paper:](https://www.nature.com/articles/s44323-025-00068-8) *Glucocorticoid-dependence and independence of the circadian liver transcriptome.* Maidstone et al., NPJ Biological Timing and Sleep, 2026.
        
-- **Transcriptomic analysis of a chronic inflammatory arthritis mouse model** REPOSITORY PRIVATE AT MOMENT
+- **Transcriptomic analysis of a chronic inflammatory arthritis mouse model** 
      - [cia-circadian-transcriptome](https://github.com/robertmaidstone/cia-circadian-transcriptome) Contains R code for analysis and plotting of metabolomics, phosphproteomics and transcriptomics data from the chronic inflammatory mouse model. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/CIAanalysis_forpaper)
      - [Paper:](https://www.pnas.org/doi/full/10.1073/pnas.2112781119) *Chronic inflammatory arthritis drives systemic changes in circadian energy metabolism.* Downton et al., Immunology and Inflammation, 2022
        
@@ -60,6 +47,19 @@ Listed below is my publications and projects with associated github repositories
      - [Paper:](https://publications.ersnet.org/content/erjor/11/6/00277-2025) *Circadian variability in breath volatiles is affected by the timing of inhaled corticosteroids in asthma.* Wang et al., ERJ Open Research, 2025.
 - **GP rhythmicity detection in 'omic data** REPOSITORY PRIVATE AT MOMENT
      - [gp-circadian-omics](https://github.com/robertmaidstone/gp-circadian-omics) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/GP_periodic_detection) [![Stan](https://img.shields.io/badge/Stan-CC0000?logo=stan&logoColor=white)](https://github.com/robertmaidstone/GP_periodic_detection)
+
+### Epidemiology
+
+- **Female night shift working and asthma in UK Biobank** Cross-sectional study on UK Biobank data investigating the effect of genetic sex on associations between night shift working and asthma. We found that increasing shift work frequency is more strongly related to asthma in females than in males whcih could have major public health implications.
+    - [asthma-shiftwork-ukb-female](https://github.com/robertmaidstone/asthma-shiftwork-ukb-female) Contains code for running analyses presented in paper. Data cleaning and handelling of UK Biobank data, fitting logistic regression models, calculating interactions between variables, mediation analysis and plotting of key results. [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/AsthmaInFemaleNightShift)
+    - [Paper:](https://publications.ersnet.org/content/erjor/11/6/00137-2025.abstract) *Increased risk of asthma in female night shift workers.* Maidstone et al., ERJ Open Research, 2025. 
+
+- **Our Future Health functions and pipelines** Ongoing research using the Our Future Health resource, both to run cross-sectional and prospective analyses.
+     - [asthma-shiftwork-ofh](https://github.com/robertmaidstone/asthma-shiftwork-ofh) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/ofh-shiftwork)
+
+- **Asthma and shift working in UK Biobank** Cross-sectional study on UK Biobank data investigating effect of shift working and chronotype on asthma.  
+    - [asthma-shiftwork-ukb](https://github.com/robertmaidstone/asthma-shiftwork-ukb) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/robertmaidstone/Asthma_ShiftWork_UKB)
+    - [Paper:](https://thorax.bmj.com/content/76/1/53) *Night shift work is associated with an increased risk of asthma.* Maidstone et al., Thorax, 2021.
 
 ### Other
 
